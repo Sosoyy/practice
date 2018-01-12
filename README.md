@@ -3,7 +3,7 @@ vue/vue-router/vuex
 
 1. cd Enjoyer
 
-2. npm install 更新下载相关以来
+2. npm install 更新下载相关依赖
 
 运行：
 
