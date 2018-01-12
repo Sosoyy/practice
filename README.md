@@ -7,10 +7,11 @@ vue/vue-router/vuex
 
 运行：
 
-1. mock数据
+1. 使用mock数据进行前端开发
 
 * npm install -g json-server
 * npm run mock
+* npm run mockdata
 
 ··
 可在mockData/data.json 中添加模拟数据
