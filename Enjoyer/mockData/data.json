@@ -1,0 +1,51 @@
+{
+  "getMenu.do": {
+    "menuList": [
+      {
+        "url": "/t1",
+        "title": "hahah",
+        "icon": "aaaa"
+      },
+      {
+        "url": "/t2",
+        "title": "hahah",
+        "icon": "aaaa"
+      },
+      {
+        "url": "/t3",
+        "title": "hahah",
+        "icon": "aaaa"
+      },
+      {
+        "url": "/t4",
+        "title": "hahah",
+        "icon": "aaaa",
+        "subMenu": [
+          {
+            "url": "/t21",
+            "title": "hahah",
+            "icon": "aaaa"
+          },
+          {
+            "url": "/t22",
+            "title": "hahah",
+            "icon": "aaaa"
+          },
+          {
+            "url": "/t23",
+            "title": "hahah",
+            "icon": "aaaa"
+          },
+          {
+            "url": "/t231",
+            "title": "hahah",
+            "icon": "aaaa"
+          }
+        ]
+      }
+    ]
+  },
+  "index": {
+    "title": "aaaa"
+  }
+}

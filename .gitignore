@@ -1,0 +1,15 @@
+.idea/
+*.iml
+node_modules/
+bower_components/
+front/screenshot/
+/deploy/
+target/
+~$*.xls
+~$*.xlsx
+/.classpath
+/.project
+/.settings/
+src/main/webapp/WEB-INF/lib
+/src/main/webapp/WEB-INF/classes
+src/main/resources/rebel.xml
